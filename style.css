@@ -1,0 +1,9 @@
+td{
+    width: 150px;
+    height: 50px;
+    border: 1px gray solid;
+}
+
+table{
+    margin: 100px auto; 
+}
